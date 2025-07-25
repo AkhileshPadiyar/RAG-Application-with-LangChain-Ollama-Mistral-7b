@@ -1,0 +1,6 @@
+The History of Artificial Intelligence
+Artificial Intelligence (AI) is a rapidly evolving field that has captured the imagination of scientists and the public alike. Its origins can be traced back to the 1950s, a period marked by significant breakthroughs in computer science. John McCarthy, a prominent computer scientist, coined the term "Artificial Intelligence" in 1956 at the Dartmouth Conference, often considered the birth of AI as a field.
+
+Early AI research focused on problem-solving and symbolic methods, attempting to replicate human-like reasoning through logic and rule-based systems. Expert systems, which encapsulated knowledge from human experts, were a popular application in the 1970s and 80s. However, these systems often struggled with ambiguity and real-world complexity.
+
+The 21st century has seen a resurgence in AI, largely driven by advancements in machine learning, particularly deep learning. This approach, inspired by the structure and function of the human brain, uses neural networks to learn from vast amounts of data. Deep learning has led to remarkable progress in areas like image recognition, natural language processing, and game playing, making AI more practical and pervasive in daily life.

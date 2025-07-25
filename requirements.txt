@@ -1,0 +1,3 @@
+langchain
+ollama
+# tkinter is included with standard Python installations (no pip install needed)

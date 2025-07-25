@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+.venv
+langchain_env
+.env
